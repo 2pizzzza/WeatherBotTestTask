@@ -1,0 +1,36 @@
+2024-10-15 12:34:04,494 - app.utils.logger - INFO - Starting bot
+2024-10-15 12:34:04,495 - aiogram.dispatcher - INFO - Start polling
+2024-10-15 12:34:05,249 - aiogram.dispatcher - INFO - Run polling for bot @weather_task_bot id=7497152732 - 'WeatherBotTestTask'
+2024-10-15 12:34:28,411 - aiogram.event - INFO - Update id=942945496 is handled. Duration 643 ms by bot id=7497152732
+2024-10-15 12:34:38,688 - aiogram.event - INFO - Update id=942945497 is handled. Duration 986 ms by bot id=7497152732
+2024-10-15 12:35:20,172 - aiogram.event - INFO - Update id=942945498 is handled. Duration 895 ms by bot id=7497152732
+2024-10-15 12:35:23,615 - app.utils.logger - ERROR - API request failed with status 404: {"cod":"404","message":"city not found"}
+2024-10-15 12:35:24,153 - aiogram.event - INFO - Update id=942945499 is handled. Duration 986 ms by bot id=7497152732
+2024-10-15 12:35:30,948 - app.utils.logger - ERROR - API request failed with status 404: {"cod":"404","message":"city not found"}
+2024-10-15 12:35:31,357 - aiogram.event - INFO - Update id=942945500 is handled. Duration 818 ms by bot id=7497152732
+2024-10-15 12:39:06,091 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 104] Connection reset by peer
+2024-10-15 12:39:06,091 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7497152732)
+2024-10-15 12:39:17,765 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7497152732)
+2024-10-15 12:45:02,387 - aiogram.event - INFO - Update id=942945501 is handled. Duration 478 ms by bot id=7497152732
+2024-10-15 12:45:09,716 - aiogram.event - INFO - Update id=942945502 is handled. Duration 147 ms by bot id=7497152732
+2024-10-15 12:45:12,377 - aiogram.event - INFO - Update id=942945503 is handled. Duration 204 ms by bot id=7497152732
+2024-10-15 12:45:21,081 - aiogram.event - INFO - Update id=942945504 is handled. Duration 715 ms by bot id=7497152732
+2024-10-15 12:45:27,224 - app.utils.logger - ERROR - API request failed with status 404: {"cod":"404","message":"city not found"}
+2024-10-15 12:45:27,635 - aiogram.event - INFO - Update id=942945505 is handled. Duration 818 ms by bot id=7497152732
+2024-10-15 12:45:31,115 - app.utils.logger - ERROR - API request failed with status 404: {"cod":"404","message":"city not found"}
+2024-10-15 12:45:31,426 - aiogram.event - INFO - Update id=942945506 is handled. Duration 667 ms by bot id=7497152732
+2024-10-15 12:45:35,353 - aiogram.event - INFO - Update id=942945507 is handled. Duration 238 ms by bot id=7497152732
+2024-10-15 12:45:37,362 - app.utils.logger - ERROR - API request failed with status 404: {"cod":"404","message":"city not found"}
+2024-10-15 12:45:37,856 - aiogram.event - INFO - Update id=942945508 is handled. Duration 902 ms by bot id=7497152732
+2024-10-15 12:45:51,904 - aiogram.event - INFO - Update id=942945509 is handled. Duration 200 ms by bot id=7497152732
+2024-10-15 12:45:57,638 - aiogram.event - INFO - Update id=942945510 is handled. Duration 818 ms by bot id=7497152732
+2024-10-15 12:46:02,655 - app.utils.logger - ERROR - API request failed with status 404: {"cod":"404","message":"city not found"}
+2024-10-15 12:46:03,065 - aiogram.event - INFO - Update id=942945511 is handled. Duration 784 ms by bot id=7497152732
+2024-10-15 12:46:05,624 - app.utils.logger - ERROR - API request failed with status 404: {"cod":"404","message":"city not found"}
+2024-10-15 12:46:06,109 - aiogram.event - INFO - Update id=942945512 is handled. Duration 766 ms by bot id=7497152732
+2024-10-15 12:46:16,479 - app.utils.logger - ERROR - API request failed with status 404: {"cod":"404","message":"city not found"}
+2024-10-15 12:46:16,949 - aiogram.event - INFO - Update id=942945513 is handled. Duration 864 ms by bot id=7497152732
+2024-10-15 12:46:41,945 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-10-15 12:46:41,946 - aiogram.dispatcher - INFO - Polling stopped for bot @weather_task_bot id=7497152732 - 'WeatherBotTestTask'
+2024-10-15 12:46:41,946 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-15 12:46:42,197 - app.utils.logger - INFO - Bot stopped
